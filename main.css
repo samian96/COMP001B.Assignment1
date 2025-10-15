@@ -4,13 +4,14 @@ html {
 h1 {
     text-decoration: underline;
 }
-
+/*.style selects the class element in thew html, changes all class elements to the same*/
 .style1 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: bold;
 }
-#number1 {
-    font-size: 12px;
+/*#number selects ID element in the html to target that ID specifically*/
+#number1 { 
+    font-size: 12px; 
 }
 img {
     border: 20em;
