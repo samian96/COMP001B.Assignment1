@@ -1,5 +1,5 @@
 html {
-    background-color: rgb(242, 236, 245);
+    background-color: rgb(224, 224, 224);
 }
 h1 {
     text-decoration: underline;
@@ -11,4 +11,9 @@ h1 {
 }
 #number1 {
     font-size: 12px;
+}
+img {
+    border: 20em;
+    padding: 05em;
+    margin: 05em;
 }
