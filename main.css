@@ -1,9 +1,14 @@
+html {
+    background-color: rgb(242, 236, 245);
+}
 h1 {
     text-decoration: underline;
 }
+
 .style1 {
-    background-color: rgb(169, 253, 210); /*changes background color to seagreen*/
-    padding: 25px;
-    border-radius: 25px; /*Rounds out border of class element*/
-    border-color: rgb(11, 107, 54);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+#number1 {
+    font-size: smaller;
 }
