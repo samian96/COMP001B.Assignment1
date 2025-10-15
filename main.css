@@ -13,6 +13,7 @@ h1 {
 #number1 { 
     font-size: 12px; 
 }
+/*img border/padding/margin adjust placement of image*/
 img {
     border: 20em;
     padding: 10em;
